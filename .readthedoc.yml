@@ -2,11 +2,11 @@ version: 2
 formats: all
 
 sphinx:
-  configuration: source/conf.py
+  configuration: docs/source/conf.py
   
 python:
     version: 3
     install:
-        - requirements: source/requirements.txt
+        - requirements: docs/source/requirements.txt
         - method: pip
           path: .
