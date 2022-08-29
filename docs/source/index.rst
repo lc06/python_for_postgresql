@@ -16,10 +16,10 @@ Contents
    :maxdepth: 2
    :caption: Lab 2
 
-   notebooks/Lab2_Python_for_Database.ipynb
+   notebooks/Lab2 Python for Database
 
 .. toctree::
    :maxdepth: 2
    :caption: Lab 7
 
-   notebooks/Lab7_Using_Python_to_Manipulate_PostgreSQL_Database.ipynb
+   notebooks/Lab7 Using Python to Manipulate PostgreSQL Database
