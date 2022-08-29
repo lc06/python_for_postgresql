@@ -1,6 +1,6 @@
 sphinx==4.2.0
 nbsphinx==0.8.1
+sphinx_rtd_theme==1.0.0
 sqlalchemy
 psycopg2
-geopanda
-sphinx_rtd_theme==1.0.0
+geopandas
