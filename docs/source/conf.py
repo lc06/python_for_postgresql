@@ -18,6 +18,8 @@ extensions = [
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
     "nbsphinx",
+    # 'myst_nb',
+    # 'jupyter_sphinx',
 ]
 
 intersphinx_mapping = {
