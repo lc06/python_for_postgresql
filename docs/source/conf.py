@@ -23,9 +23,23 @@ intersphinx_mapping = {
     'python': ('https://docs.python.org/3/', None),
     'sphinx': ('https://www.sphinx-doc.org/en/master/', None),
 }
+
 intersphinx_disabled_domains = ['std']
 
+# Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
+
+# source_suffix = ['.rst', '.md']
+source_suffix = '.rst'
+
+# The master toctree document.
+master_doc = 'index'
+
+# Allow errors
+execution_allow_errors = True
+
+# Do not execute cells
+jupyter_execute_notebooks = "off"
 
 # -- Options for HTML output
 
