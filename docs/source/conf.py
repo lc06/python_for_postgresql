@@ -12,12 +12,13 @@ version = '0.1.0'
 # -- General configuration
 
 extensions = [
-    "nbsphinx",
     'sphinx.ext.duration',
     'sphinx.ext.doctest',
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
+    'myst_nb',
+    'jupyter_sphinx',
 ]
 
 intersphinx_mapping = {
