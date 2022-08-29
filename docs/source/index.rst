@@ -1,13 +1,9 @@
-Welcome to Lumache's documentation!
+Welcome to PPSQL's documentation!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+Check out the :doc:`Lab2 Python for Database` section for basic information about using python to manipulate PostgreSQL database.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Check out the :doc:`Lab7 Using Python to Manipulate PostgreSQL Database` section for further information about using python to manipulate spatial data from PostgreSQL database.
 
 .. note::
 
@@ -17,6 +13,13 @@ Contents
 --------
 
 .. toctree::
+   :maxdepth: 1
+   :caption: Lab 2
 
-   usage
-   api
+   Lab2 Python for Database.ipynb
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Lab 7
+
+   Lab7 Using Python to Manipulate PostgreSQL Database.ipynb
