@@ -1,9 +1,9 @@
 Welcome to PPSQL's documentation!
 ===================================
 
-Check out the :doc:`Lab2 Python for Database` section for basic information about using python to manipulate PostgreSQL database.
+Check out the :ref:`Lab2 Python for Database` section for basic information about using python to manipulate PostgreSQL database.
 
-Check out the :doc:`Lab7 Using Python to Manipulate PostgreSQL Database` section for further information about using python to manipulate spatial data from PostgreSQL database.
+Check out the :ref:`Lab7 Using Python to Manipulate PostgreSQL Database` section for further information about using python to manipulate spatial data from PostgreSQL database.
 
 .. note::
 
@@ -21,45 +21,39 @@ Course topics by week
 
    The LSGI3245 course runs for thirteen weeks at the University of Helsinki starting in the fisrt teaching period on Monday the 29th of August 2022. Topics per week are listed below:
 
-+----------------+---------------------------------+
-| Week           | Theme                           |
-+================+=================================+
-| **1**          | Overview                        |
-|                |                                 |
-|                |                                 |
-|                |                                 |
-+----------------+---------------------------------+
-| **2**          | Managing spatial data with      |
-|                | Geopandas (reading and writing  |
-|                | data, projections, table joins) |
-|                |                                 |
-+----------------+---------------------------------+
-| **3**          | Geocoding and spatial           |
-|                | queries                         |
-|                |                                 |
-+----------------+---------------------------------+
-| **4**          | Reclassifying data,             |
-|                | overlay analysis                |
-|                |                                 |
-+----------------+---------------------------------+
-| **5**          | Visualization: static           |
-|                | and interactive maps            |
-|                |                                 |
-+----------------+---------------------------------+
-| **6**          | Course recap and                |
-|                | Preparing for the final         |
-|                | assignment                      |
-|                |                                 |
-+----------------+---------------------------------+
-| **7**          | OpenStreetMap data (osmnx) and  |
-|                | Network analysis (networkx)     |
-|                |                                 |
-+----------------+---------------------------------+
-| **Extra**      |  PyQGIS, Raster processing      |
-| **materials**  |                                 |
-| **for**        |                                 |
-| **self-study** |                                 |
-+----------------+---------------------------------+
++----------------+-----------------------------------------------------+
+|      Week      |                        Theme                        |
++================+=====================================================+
+| **1**          | Overview                                            |
+|                |                                                     |
+|                |                                                     |
+|                |                                                     |
++----------------+-----------------------------------------------------+
+| **2**          | Lab2 Python for Database                            |
+|                |                                                     |
+|                |                                                     |
+|                |                                                     |
++----------------+-----------------------------------------------------+
+| **3**          |                                                     |
+|                |                                                     |
++----------------+-----------------------------------------------------+
+| **4**          |                                                     |
+|                |                                                     |
++----------------+-----------------------------------------------------+
+| **5**          |                                                     |
+|                |                                                     |
++----------------+-----------------------------------------------------+
+| **6**          |                                                     |
+|                |                                                     |
++----------------+-----------------------------------------------------+
+| **7**          | Lab7 Using Python to Manipulate PostgreSQL Database |
+|                |                                                     |
++----------------+-----------------------------------------------------+
+| **Extra**      | PostGIS, GeoPandas                                  |
+| **materials**  |                                                     |
+| **for**        |                                                     |
+| **self-study** |                                                     |
++----------------+-----------------------------------------------------+
 
 |
 
