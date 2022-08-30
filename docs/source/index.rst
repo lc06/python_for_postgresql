@@ -48,4 +48,4 @@ Lab 7 Using Python to Manipulate PostgreSQL Database
    :maxdepth: 1
    :caption: Contents
    
-      notebooks/Lab7 Using Python to Manipulate PostgreSQL Database
+   notebooks/Lab7 Using Python to Manipulate PostgreSQL Database
