@@ -30,6 +30,8 @@ Course topics by week
 |                |                                 |
 +----------------+---------------------------------+
 
+|
+
 Lab 2 Python for Database
 --------
 
@@ -39,7 +41,7 @@ Lab 2 Python for Database
    
    notebooks/Lab2 Python for Database
 
-Lab 7 Python for Database
+Lab 7 Using Python to Manipulate PostgreSQL Database
 --------
 
 .. toctree::
