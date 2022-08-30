@@ -9,6 +9,27 @@ Check out the :doc:`Lab7 Using Python to Manipulate PostgreSQL Database` section
 
    This project is under active development.
 
+
+Course format
+-------------
+
+   The course consists of interactive lectures and weekly exercises.
+
+
+Course topics by week
+---------------------
+
+   The LSGI3245 course runs for thirteen weeks at the University of Helsinki starting in the fisrt teaching period on Monday the 29th of August 2022. Topics per week are listed below:
+
++----------------+---------------------------------+
+| Week           | Theme                           |
++================+=================================+
+| **1**          | Overview                        |
+|                |                                 |
+|                |                                 |
+|                |                                 |
++----------------+---------------------------------+
+
 Contents
 --------
 
@@ -18,9 +39,3 @@ Contents
    
    notebooks/Lab2 Python for Database
    notebooks/Lab7 Using Python to Manipulate PostgreSQL Database
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Lab 7
-
-   
