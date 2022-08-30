@@ -29,6 +29,37 @@ Course topics by week
 |                |                                 |
 |                |                                 |
 +----------------+---------------------------------+
+| **2**          | Managing spatial data with      |
+|                | Geopandas (reading and writing  |
+|                | data, projections, table joins) |
+|                |                                 |
++----------------+---------------------------------+
+| **3**          | Geocoding and spatial           |
+|                | queries                         |
+|                |                                 |
++----------------+---------------------------------+
+| **4**          | Reclassifying data,             |
+|                | overlay analysis                |
+|                |                                 |
++----------------+---------------------------------+
+| **5**          | Visualization: static           |
+|                | and interactive maps            |
+|                |                                 |
++----------------+---------------------------------+
+| **6**          | Course recap and                |
+|                | Preparing for the final         |
+|                | assignment                      |
+|                |                                 |
++----------------+---------------------------------+
+| **7**          | OpenStreetMap data (osmnx) and  |
+|                | Network analysis (networkx)     |
+|                |                                 |
++----------------+---------------------------------+
+| **Extra**      |  PyQGIS, Raster processing      |
+| **materials**  |                                 |
+| **for**        |                                 |
+| **self-study** |                                 |
++----------------+---------------------------------+
 
 |
 
