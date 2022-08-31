@@ -57,13 +57,13 @@ Course topics by week
 
 |
 
-Lab 2 Python for Database
+Lab 2 Using python to connect and manipulate PostgreSQL
 --------
 
 .. toctree::
    :maxdepth: 1
    
-   notebooks/Lab2 Python for Database
+   notebooks/Lab 2 Using python to connect and manipulate PostgreSQL
 
 Lab 7 Using Python to Manipulate PostgreSQL Database
 --------
