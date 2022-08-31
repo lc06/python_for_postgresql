@@ -62,7 +62,6 @@ Lab 2 Python for Database
 
 .. toctree::
    :maxdepth: 1
-   :caption: Contents
    
    notebooks/Lab2 Python for Database
 
@@ -71,6 +70,5 @@ Lab 7 Using Python to Manipulate PostgreSQL Database
 
 .. toctree::
    :maxdepth: 1
-   :caption: Contents
    
    notebooks/Lab7 Using Python to Manipulate PostgreSQL Database
