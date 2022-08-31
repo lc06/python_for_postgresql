@@ -17,9 +17,15 @@ extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
+    'sphinx.ext.mathjax',
+    'sphinx.ext.githubpages',
+    'sphinx.ext.todo',
+    "sphinx_thebe",
+    'IPython.sphinxext.ipython_console_highlighting',
+    'IPython.sphinxext.ipython_directive',
     "nbsphinx",
-    # 'myst_nb',
-    # 'jupyter_sphinx',
+    'myst_nb',
+    'jupyter_sphinx',
 ]
 
 intersphinx_mapping = {
@@ -38,6 +44,9 @@ source_suffix = '.rst'
 # The master toctree document.
 master_doc = 'index'
 
+# The name of the Pygments (syntax highlighting) style to use.
+pygments_style = 'sphinx'
+
 # Allow errors
 execution_allow_errors = True
 
@@ -46,7 +55,7 @@ jupyter_execute_notebooks = "off"
 
 # -- Options for HTML output
 
-html_theme = 'sphinx_rtd_theme'
+html_theme = 'sphinx_book_theme'
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
